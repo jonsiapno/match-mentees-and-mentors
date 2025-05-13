@@ -1,4 +1,4 @@
-# match-mentees-and-mentors
+# Match Mentees and Mentors
 
 [Match Mentees and Mentors Template](https://docs.google.com/spreadsheets/d/1JhOxsP6_pxdapIs9xdHRGP0hU6LoT1-oOISrJtPe69I/edit?usp=sharing)
 
