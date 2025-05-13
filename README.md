@@ -83,3 +83,22 @@ Important: Don't change the column headers! The matching script needs these exac
 - Double-check spelling of college names - "Stanford University" and "Stanford" would be treated as different match categories
 - Run the script again any time you add new participants
 - If you need to start over, just clear the "Matches" sheet and run the script again
+
+## Adjusting the Matching Ratio
+You can change how many mentors each mentee gets, or how many mentees each mentor can support, by modifying two simple numbers in the script:
+
+Click on Extensions > Apps Script again
+Find these two lines near the top:
+javascriptvar MENTORS_PER_MENTEE = 1; // Number of mentors each mentee should have
+var MAX_MENTEES_PER_MENTOR = 1; // Maximum number of mentees per mentor
+
+Change the numbers to meet your needs:
+
+To give each mentee 2 mentors: Change MENTORS_PER_MENTEE = 1 to MENTORS_PER_MENTEE = 2
+To allow each mentor to support up to 3 mentees: Change MAX_MENTEES_PER_MENTOR = 1 to MAX_MENTEES_PER_MENTOR = 3
+
+![SCREENSHOT 13: Show the Apps Script editor with these two variables highlighted, and arrows pointing to where the numbers can be changed](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20152336.jpg)
+
+Click Save and then Run to apply your changes
+
+Example: If you have more mentees than mentors, you might set MAX_MENTEES_PER_MENTOR = 3 so each mentor can support multiple mentees.
