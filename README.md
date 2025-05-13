@@ -30,7 +30,7 @@ This spreadsheet:
 - Match Category: The college they're affiliated with
 - Role: Either "Mentor" or "Mentee"
 
-!([https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20145900.jpg](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20150431.jpg)
+![https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20145900.jpg](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20150431.jpg)
 Important: Don't change the column headers! The matching script needs these exact header names to work properly.
 
 ### Step 3: Run the Matching Script
