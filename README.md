@@ -1,7 +1,6 @@
 # match-mentees-and-mentors
 
-https://docs.google.com/spreadsheets/d/1JhOxsP6_pxdapIs9xdHRGP0hU6LoT1-oOISrJtPe69I/edit?usp=sharing
-
+[Match Mentees and Mentors Template](https://docs.google.com/spreadsheets/d/1JhOxsP6_pxdapIs9xdHRGP0hU6LoT1-oOISrJtPe69I/edit?usp=sharing)
 This Google Sheet automatically matches mentees with mentors from the same college. This README will guide you through using the spreadsheet, even if you have no technical background.
 
 ## What This Tool Does
