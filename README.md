@@ -38,7 +38,7 @@ Important: Don't change the column headers! The matching script needs these exac
 1. Click on Extensions in the top menu
 2. Select Apps Script
 
-[SCREENSHOT 3: Show the Google Sheets menu with Extensions > Apps Script highlighted]
+![SCREENSHOT 3: Show the Google Sheets menu with Extensions > Apps Script highlighted](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20150652.jpg)
 
 3. A new tab will open showing the matching script code. You don't need to understand the code!
 
