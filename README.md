@@ -16,7 +16,7 @@ This spreadsheet:
 1. Open the Google Sheet template I've shared with you
 2. Make a copy for yourself by clicking File > Make a copy
 
-[SCREENSHOT 1: Show the Google Sheets "File" menu with "Make a copy" highlighted]
+![Screenshot description](screenshots/Screenshot 2025-05-13 145900.jpg)
 
 3. Give your copy a name (like "College Mentorship Matcher")
 
