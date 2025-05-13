@@ -15,7 +15,7 @@ This spreadsheet:
 ## Getting Started
 ### Step 1: Access the Template
 
-1. Open the Google Sheet template I've shared with you
+1. Open the Google Sheet template
 2. Make a copy for yourself by clicking File > Make a copy
 
 ![https://github.com/yourusername/your-repo/blob/main/screenshots/matches-tab.png](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20145900.jpg)
@@ -91,7 +91,7 @@ You can change how many mentors each mentee gets, or how many mentees each mento
 
 Click on Extensions > Apps Script again
 Find these two lines near the top:
-javascriptvar MENTORS_PER_MENTEE = 1; // Number of mentors each mentee should have
+var MENTORS_PER_MENTEE = 1; // Number of mentors each mentee should have
 var MAX_MENTEES_PER_MENTOR = 1; // Maximum number of mentees per mentor
 
 Change the numbers to meet your needs:
