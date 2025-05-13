@@ -42,7 +42,7 @@ Important: Don't change the column headers! The matching script needs these exac
 
 3. A new tab will open showing the matching script code. You don't need to understand the code!
 
-[SCREENSHOT 4: Show the Apps Script editor with the code visible]
+![SCREENSHOT 4: Show the Apps Script editor with the code visible](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20150839.jpg)
 
 4. Click the Run button (▶️ icon)
 
