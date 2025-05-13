@@ -16,7 +16,7 @@ This spreadsheet:
 1. Open the Google Sheet template I've shared with you
 2. Make a copy for yourself by clicking File > Make a copy
 
-(screenshots/Screenshot 2025-05-13 145900.jpg)
+![https://github.com/yourusername/your-repo/blob/main/screenshots/matches-tab.png](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20145900.jpg)
 
 3. Give your copy a name (like "College Mentorship Matcher")
 
