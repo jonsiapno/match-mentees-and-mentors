@@ -45,43 +45,41 @@ Important: Don't change the column headers! The matching script needs these exac
 ![SCREENSHOT 4: Show the Apps Script editor with the code visible](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20150839.jpg)
 
 4. Click the Run button (▶️ icon)
-
-[SCREENSHOT 5: Show the Apps Script editor with the Run button highlighted]
-
 5. The first time you run the script, you'll see a permissions request:
 
-[SCREENSHOT 6: Show the "Authorization required" dialog]
+![SCREENSHOT 6: Show the "Authorization required" dialog](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151024.jpg)
 
 6. Click Review Permissions
 7. Select your Google account when prompted
 
-[SCREENSHOT 7: Show the "Choose an account" dialog]
+![SCREENSHOT 7: Show the "Choose an account" dialog](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151145.jpg)
 
 8. You'll see a warning that says "Google hasn't verified this app" - this is normal for custom scripts. Click Advanced
 
-[SCREENSHOT 8: Show the "Google hasn't verified this app" screen with "Advanced" link highlighted]
+![SCREENSHOT 8: Show the "Google hasn't verified this app" screen with "Advanced" link highlighted](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151314.jpg)
 
 9. Click Go to [Your Project Name] (unsafe)
 
-[SCREENSHOT 9: Show the screen with the "Go to [Project Name] (unsafe)" link highlighted]
+![SCREENSHOT 9: Show the screen with the "Go to [Project Name] (unsafe)" link highlighted](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151420.jpg)
 
 10. Click Allow to give the script permission to access your spreadsheet
 
-[SCREENSHOT 10: Show the permissions dialog with "Allow" button highlighted]
+![SCREENSHOT 10: Show the permissions dialog with "Allow" button highlighted](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151540.jpg)
 
 ### Step 4: View Your Matches
 
 1. After running the script, go back to your spreadsheet
 2. Click on the "Matches" tab at the bottom
 
-[SCREENSHOT 11: Show the spreadsheet with the "Matches" tab highlighted]
+![SCREENSHOT 11: Show the spreadsheet with the "Matches" tab highlighted](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20151856.jpg)
 
 3. You'll see all your mentor-mentee matches listed here!
 
-[SCREENSHOT 12: Show the Matches sheet with results]
-Tips for Success
+![SCREENSHOT 12: Show the Matches sheet with results](https://github.com/jonsiapno/match-mentees-and-mentors/blob/main/screenshots/Screenshot%202025-05-13%20152001.jpg)
 
-Make sure each college has at least one mentor and one mentee - otherwise, students from that college won't get matched
-Double-check spelling of college names - "Stanford University" and "Stanford" would be treated as different match categories
-Run the script again any time you add new participants
-If you need to start over, just clear the "Matches" sheet and run the script again
+## Tips for Success
+
+- Make sure each college has at least one mentor and one mentee - otherwise, students from that college won't get matched
+- Double-check spelling of college names - "Stanford University" and "Stanford" would be treated as different match categories
+- Run the script again any time you add new participants
+- If you need to start over, just clear the "Matches" sheet and run the script again
